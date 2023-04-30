@@ -1,6 +1,6 @@
 # learn-java-maven
 run this command to generate a new Maven project: <br/> <br/>
-mvn archetype:generate -DgroupId=com.alridiputra -DartifactID=book-catalog -DarchetypeArtifactID=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+mvn archetype:generate -DgroupId=com.alridiputra -DartifactId=book-catalog -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
 <br/> <br/>
 ``` mvn archetype ```
 generate is a command used in Maven, a build automation tool for Java projects, to generate a new Maven project based on a specified archetype.
